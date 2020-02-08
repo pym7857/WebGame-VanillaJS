@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>지뢰찾기</title>
+		<style>
+			table {
+				boeder-collapse: collapse; /*간격 맞춰짐*/
+			}
+			td {
+				border: 1px solid black;
+				width: 30px;
+				height: 30px;
+			}
+		</style>
+	</head>
+</html>
+<body>
+	<input id="hor" type="number" palceholder="가로" value="10">
+	<input id="ver" type="number" palceholder="세로" value="10">
+	<input id="mine" type="number" palceholder="지뢰개수" value="20">
+	<button id="exec">실행</button>
+	<table id="table">
+		<thead>
+			<tr>
+				<td><span id="timer">0</span>초</td>
+			</tr>
+		</thead>
+		<tbody></tbody>
+	</table>
+	<script src="지뢰찾기.js"></script>
+</body>
