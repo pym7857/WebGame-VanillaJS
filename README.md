@@ -1,4 +1,2 @@
 # WebGame-VanillaJS :video_game:
-WebGame-VanillaJS
-
-by ZeroCho
+WebGame-VanillaJS by ZeroCho
