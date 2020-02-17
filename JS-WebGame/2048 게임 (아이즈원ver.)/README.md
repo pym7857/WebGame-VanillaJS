@@ -1,3 +1,3 @@
 # WebGame-VanillaJS :video_game:
 
-https://edelweiss-ever.tistory.com/32
+실행결과 >> https://edelweiss-ever.tistory.com/32
