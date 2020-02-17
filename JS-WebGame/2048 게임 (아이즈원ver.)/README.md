@@ -1,2 +1,3 @@
 # WebGame-VanillaJS :video_game:
-WebGame-VanillaJS by ZeroCho
+
+https://edelweiss-ever.tistory.com/32
